@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "207465536911",
+    "firebase_url": "https://keshav-industries-new.firebaseio.com",
+    "project_id": "keshav-industries-new",
+    "storage_bucket": "keshav-industries-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207465536911:android:f8b4e923026a68169efffa",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207465536911-tn60urersetrd6clh54pqvtij8cqr73k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB84fRb-zO0GMrXszLQNQapdCxGlM8Wo6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207465536911-tn60urersetrd6clh54pqvtij8cqr73k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
